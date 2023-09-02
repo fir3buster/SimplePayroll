@@ -1,0 +1,15 @@
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\bin\Debug\net6.0\SimplePayroll.exe
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\bin\Debug\net6.0\SimplePayroll.deps.json
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\bin\Debug\net6.0\SimplePayroll.runtimeconfig.json
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\bin\Debug\net6.0\SimplePayroll.dll
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\bin\Debug\net6.0\SimplePayroll.pdb
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.csproj.AssemblyReference.cache
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.AssemblyInfoInputs.cache
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.AssemblyInfo.cs
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.csproj.CoreCompileInputs.cache
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.dll
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\refint\SimplePayroll.dll
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.pdb
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\SimplePayroll.genruntimeconfig.cache
+D:\Online Course\Self_Learn\C#_Projects\SimplePayroll\obj\Debug\net6.0\ref\SimplePayroll.dll
